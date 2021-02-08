@@ -1,0 +1,21 @@
+{
+  "name": "noticias",
+  "version": "1.0.0",
+  "description": "Mi primer sitio de noticias",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://YLeyes@bitbucket.org/YLeyes/noticias.git"
+  },
+  "author": "Yecid Leyes",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/YLeyes/noticias#readme"
+}
